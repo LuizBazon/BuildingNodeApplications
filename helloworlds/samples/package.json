@@ -1,0 +1,17 @@
+{
+  "name": "samples",
+  "version": "1.0.0",
+  "description": "",
+  "main": "events.js",
+  "dependencies": {
+    "express": "^4.12.3",
+    "socket.io": "^1.3.5",
+    "jade": "^1.9.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
